@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jack Callow - @jvckcallow 👋
+
+Hi, I'm Jack - a full stack software engineer at Reddico Digital working on a range of tools and applications for the SEO industry.
 
 <!--
 **sjmc11/sjmc11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
