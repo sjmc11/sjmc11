@@ -1,6 +1,8 @@
 ### Jack Callow - @jvckcallow 👋
 
-Hi, I'm Jack - a full stack software engineer at Reddico Digital leading SPA production & crafting highly scalable and performant APIs/microservices to create tools for the SEO industry.
+Hi, I'm Jack - Team lead for front end development at Address Intelligence Ltd.
+
+Previously full task software engineer at Reddico Digital leading SPA production & crafting highly scalable and performant APIs/microservices to create tools for the SEO industry.
 
 Public projects
 - [TourGuide JS](https://tourguidejs.com)
