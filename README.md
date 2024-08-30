@@ -4,13 +4,15 @@ Senior Software Engineer specializing in full-stack and front-end development. I
 
 Currently FE software engineer at Sano Genetics.
 
+See [Studiotek](https://studiotek.co.uk)
+
 ### Previous
 - AddIntel: FE lead
 - Reddico - Full stack engineer
 
 ### Public projects
 - [TourGuide JS](https://tourguidejs.com)
-- [Contract Calculator](https://contractor-calculator.co.uk/) 
+- [Contract Calculator](https://contractor-calculator.co.uk) 
 
 
 ### Languages:
