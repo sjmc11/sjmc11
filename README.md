@@ -1,27 +1,44 @@
 ### Jack Callow - @jvckcallow 👋
 
-Hi, I'm Jack - Team lead for front end development at Address Intelligence Ltd.
+Senior Software Engineer specializing in full-stack and front-end development. I work with Go, PHP, SQL, and TypeScript, experienced using frameworks like Vue and Laravel. With a strong background in cloud services (AWS, GCP) and tools like Docker and Linux, I create scalable, high-performance applications.
 
-Previously full task software engineer at Reddico Digital leading SPA production & crafting highly scalable and performant APIs/microservices to create tools for the SEO industry.
+### Previous
 
-Public projects
+- Sano: FE engineer
+- AddIntel: FE lead
+- Reddico - Full stack engineer
+
+### Public projects
 - [TourGuide JS](https://tourguidejs.com)
-- [SERP Speed](https://reddico.co.uk/tools/serp-speed/) 
+- [Contract Calculator](https://contractor-calculator.co.uk/) 
 
 
+### Languages:
+- Typescript
+- Go
+- PHP
+- SQL
 
+### Frameworks:
+- Vue
+- Svelte
+- React
+- Hugo
+- Laravel
 
-<!--
-**sjmc11/sjmc11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Datastores
+- SQL
+- Postgres
+- Mongo
+- Redis
 
-Here are some ideas to get you started:
+### Cloud
+- AWS & GCP
+- Lambda
+- Cloudwatch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools:
+- Git
+- CircleCi
+- Docker 
+- Linux
