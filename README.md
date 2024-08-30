@@ -2,9 +2,9 @@
 
 Senior Software Engineer specializing in full-stack and front-end development. I work with Go, PHP, SQL, and TypeScript, experienced using frameworks like Vue and Laravel. With a strong background in cloud services (AWS, GCP) and tools like Docker and Linux, I create scalable, high-performance applications.
 
-### Previous
+Currently FE software engineer at Sano Genetics.
 
-- Sano: FE engineer
+### Previous
 - AddIntel: FE lead
 - Reddico - Full stack engineer
 
