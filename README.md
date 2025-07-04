@@ -1,6 +1,6 @@
 ### Jack Callow - @jvckcallow 👋
 
-Senior Software Engineer specializing in full-stack and front-end development. I work with Go, PHP, SQL, and TypeScript, experienced using frameworks like Vue and Laravel. With a strong background in cloud services (AWS, GCP) and tools like Docker and Linux, I create scalable, high-performance applications.
+Senior full stack Software Engineer specializing in front-end development. I work with Go, PHP, SQL, and TypeScript, experienced using frameworks like Vue and Laravel. With a strong background in cloud services (AWS, GCP) and tools like Docker and Linux, I create scalable, high-performance applications.
 
 Currently FE software engineer at Sano Genetics.
 
