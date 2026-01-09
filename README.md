@@ -12,7 +12,8 @@ See [Studiotek](https://studiotek.co.uk)
 
 ### Public projects
 - [TourGuide JS](https://tourguidejs.com)
-- [Contract Calculator](https://contractor-calculator.co.uk) 
+- [Contract Calculator](https://contractor-calculator.co.uk)
+- [Vue WSWG Page Editor](https://sjmc11.github.io/vue-wswg-editor/)
 
 
 ### Languages:
