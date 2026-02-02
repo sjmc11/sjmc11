@@ -14,6 +14,7 @@ See [Studiotek](https://studiotek.co.uk)
 - [TourGuide JS](https://tourguidejs.com)
 - [Contract Calculator](https://contractor-calculator.co.uk)
 - [Vue WSWG Page Editor](https://sjmc11.github.io/vue-wswg-editor/)
+- [Kokori TTS - MacOS app](https://kokori.app)
 
 
 ### Languages:
